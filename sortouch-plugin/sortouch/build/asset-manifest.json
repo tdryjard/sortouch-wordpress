@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/sortouch/sortouch/build/static/css/main.4e22dc30.chunk.css",
+    "main.js": "/wp-content/plugins/sortouch/sortouch/build/static/js/main.7bd7f15c.chunk.js",
+    "main.js.map": "/wp-content/plugins/sortouch/sortouch/build/static/js/main.7bd7f15c.chunk.js.map",
+    "runtime-main.js": "/wp-content/plugins/sortouch/sortouch/build/static/js/runtime-main.00b83387.js",
+    "runtime-main.js.map": "/wp-content/plugins/sortouch/sortouch/build/static/js/runtime-main.00b83387.js.map",
+    "static/js/2.3c00815d.chunk.js": "/wp-content/plugins/sortouch/sortouch/build/static/js/2.3c00815d.chunk.js",
+    "static/js/2.3c00815d.chunk.js.map": "/wp-content/plugins/sortouch/sortouch/build/static/js/2.3c00815d.chunk.js.map",
+    "index.html": "/wp-content/plugins/sortouch/sortouch/build/index.html",
+    "precache-manifest.2f12ac42358bdda77250c10eeb89e86f.js": "/wp-content/plugins/sortouch/sortouch/build/precache-manifest.2f12ac42358bdda77250c10eeb89e86f.js",
+    "service-worker.js": "/wp-content/plugins/sortouch/sortouch/build/service-worker.js",
+    "static/css/main.4e22dc30.chunk.css.map": "/wp-content/plugins/sortouch/sortouch/build/static/css/main.4e22dc30.chunk.css.map",
+    "static/js/2.3c00815d.chunk.js.LICENSE.txt": "/wp-content/plugins/sortouch/sortouch/build/static/js/2.3c00815d.chunk.js.LICENSE.txt",
+    "static/media/ChatBotArea.css": "/wp-content/plugins/sortouch/sortouch/build/static/media/Sen-Regular.c92d05eb.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00b83387.js",
+    "static/js/2.3c00815d.chunk.js",
+    "static/css/main.4e22dc30.chunk.css",
+    "static/js/main.7bd7f15c.chunk.js"
+  ]
+}
